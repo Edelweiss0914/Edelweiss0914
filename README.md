@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SeongHyeon Jeong</h1>
-<h3 align="center">I want to become SE/CE</h3>
+<h3 align="center">I hope to become SE/CE</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
