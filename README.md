@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[!AWS SAA-C03<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ee8bc864-d5f2-4eb2-91ae-4ba5f3d6f5af" />https://www.credly.com/users/seonghyeon-jeong.8dcabe04/edit/badges/credly]
+[AWS SAA-C03<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ee8bc864-d5f2-4eb2-91ae-4ba5f3d6f5af" />https://www.credly.com/users/seonghyeon-jeong.8dcabe04/edit/badges/credly]
 
 
 <h3 align="left">Languages and Tools:</h3>
