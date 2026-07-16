@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ee8bc864-d5f2-4eb2-91ae-4ba5f3d6f5af" />https://www.credly.com/users/seonghyeon-jeong.8dcabe04/edit/badges/credly]
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/ee8bc864-d5f2-4eb2-91ae-4ba5f3d6f5af" />
 
 
 <h3 align="left">Languages and Tools:</h3>
